@@ -22,3 +22,6 @@ and none of them was open-source so I decided to make my own one.
 ## More information about the project!
 I know the code in this project at the moment is *so* messy, i'll be pushing updates to make the code understandable and more organized!
 Thanks for understanding.
+https://github.com/tinopai/hypixelbot
+
+[![Run on Repl.it](https://repl.it/badge/github/tinopai/hypixelbot)](https://repl.it/github/tinopai/hypixelbot)
